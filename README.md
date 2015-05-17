@@ -17,11 +17,13 @@ When the bus gets closer than 0.5 miles, have the program issue an alert by popp
 
 Travis will meet the bus and get his briefcase.
 
-To display a map: Google Static Maps
+######To display a map: Google Static Maps
 https://developers.google.com/maps/documentation/staticmaps/
 
-To show a page in a browser
+######To show a page in a browser
 ```python
 import webbrowser
 webbrowser.open('http://...')
 ```
+
+
